@@ -1,0 +1,10 @@
+# Android Studio
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/build
+
+# OS c**** files
+.DS_Store
+
