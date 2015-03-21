@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Top Movies</string>
+    <string name="title_movie_detail">Movie Detail</string>
+    <string name="movie_poster">Movie poster</string>
+    
+</resources>

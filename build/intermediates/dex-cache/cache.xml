@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/media/miguelo/datos/ws/ws-github/topmovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/media/miguelo/datos/ws/ws-github/topmovies/app/build/intermediates/pre-dexed/debug/classes-98ce269719f0620ced2a4ec324af9d3b6854bc2e.jar" />
+    </item>
+    <item
+        jar="/home/miguelo/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/media/miguelo/datos/ws/ws-github/topmovies/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-532e0009875ace491a4681b14fd5b81cdef9b08e.jar" />
+    </item>
+    <item
+        jar="/media/miguelo/datos/ws/ws-github/topmovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/media/miguelo/datos/ws/ws-github/topmovies/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-bfce80aa460da775f0f156657fa801f197e4fdeb.jar" />
+    </item>
+
+</items>
