@@ -44,7 +44,7 @@ public class MovieListFragment extends ListFragment {
 
     public static final String PREFS_NAME = "Prefs";
     private static final String SP_FEED = "feed";
-    private static final String FEED_MOVIES = "https://itunes.apple.com/gb/rss/topmovies/limit=25/json";
+    private static final String FEED_MOVIES = "https://itunes.apple.com/gb/rss/topmovies/limit=50/json";
     /**
      * The serialization (saved instance state) Bundle key representing the
      * activated item position. Only used on tablets.
